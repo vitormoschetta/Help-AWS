@@ -30,3 +30,6 @@ O S3 também é utilizado ao se criar um serviço de app **Elastic Beanstalk**, 
 ## Route 53
 É um serviço de registro de Domínios e configuração de DNS da AWS.
 
+## Elastic Container Registry
+Repositório de imagens Docker da AWS, semelhante ao Docker-HUB
+
