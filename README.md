@@ -33,3 +33,5 @@ O S3 também é utilizado ao se criar um serviço de app **Elastic Beanstalk**, 
 ## Elastic Container Registry
 Repositório de imagens Docker da AWS, semelhante ao Docker-HUB
 
+## Elastic MapReduce (Amazon EMR)
+Serviço de gerenciamento de Clusters para computação de Big Data.
